@@ -138,6 +138,14 @@ The system provides secure remote access to critical machine parameters anytime,
 - Responds to user commands and safety triggers.
 
 - Ensures protection from overload or overheating.
+  
+
+## 📐 Schematic Diagram
+
+  
+
+  <img width="1100" height="678" alt="image" src="https://github.com/user-attachments/assets/efd7ded1-268e-4f67-806e-6c42f5b60f79" />
+
 
 
 
