@@ -212,11 +212,15 @@ The system provides secure remote access to critical machine parameters anytime,
 
 ## 📚 Project Structure
 
+```
+
 ├── /code
 ├── /circuit_diagram
 ├── /images
 ├── /documentation
 └── README.md
+
+```
 
 
 ## 🎯 Use Case
@@ -242,7 +246,9 @@ The system provides secure remote access to critical machine parameters anytime,
 
 
 
-## Contact
+## 👤 Author
+
+- Manjunath G L
 
 If you want to contact me, you can reach me through below handles.
 
