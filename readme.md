@@ -190,20 +190,14 @@ The system provides secure remote access to critical machine parameters anytime,
 
 - GitHub for version control
 
-  
- 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a7f051c4-5d05-4195-9f49-16985fd7302c" width="32%" />
-  <img src="https://github.com/user-attachments/assets/a4228076-df6c-47c7-a304-ccb11215d74c" width="32%" />
-  <img src="https://github.com/user-attachments/assets/39af0e90-2dfc-4b92-b67c-836f68e8bc82" width="32%" />
-  <br/>
-  <img src="https://github.com/user-attachments/assets/d6a1909f-f731-4629-a5c8-06122ecc5169" width="32%" />
-  <img src="https://github.com/user-attachments/assets/a411464b-3e92-4400-810c-376646a9be35" width="32%" />
-</p>
+## Blynk App IOT
+
+<img width="667" height="823" alt="Screenshot 2025-12-11 220215" src="https://github.com/user-attachments/assets/cbb252fe-0e93-4e7f-9d8b-146c32a0da73" />
 
 
 
-
+## IoT Analytics - ThingSpeak Internet of Things
+  <img width="913" height="573" alt="Screenshot 2025-12-11 220249" src="https://github.com/user-attachments/assets/6bc4d2dd-4c16-4091-8f07-4cf36a8b6c35" />
 
 
 
